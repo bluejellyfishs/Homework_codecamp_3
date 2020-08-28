@@ -1,4 +1,4 @@
-### Codecamp #รุ่น5
+### Codecamp #รุ่น3
  1. Waranya Thamsritip
  2.1 โหลด csv เข้าไปใน Python Pandas
  2.2 เขียนโค้ดแสดง หัว10แถว ท้าย10แถว และสุ่ม10แถว

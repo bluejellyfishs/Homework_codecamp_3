@@ -1,4 +1,4 @@
-### Codecamp #รุ่น5
+### Codecamp #รุ่น3
  1. Waranya Thamsritip
  2.1 จงเขียน array ที่มีแต่เลข 0 แบบ vector 10 ตัว และ แบบ Matrix 4x4
  2.2 จงเขียน array ที่มีแต่เลข 1 แบบ vector 5 ตัว และ แบบ Matrix 3x3
