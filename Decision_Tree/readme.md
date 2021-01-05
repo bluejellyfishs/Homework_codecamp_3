@@ -1,0 +1,52 @@
+### Codecamp #รุ่น3
+  1. Waranya Thamsritip
+
+  2.1. โหลด csv เข้าไปใน Python Pandas
+
+  2.2. เขียนโค้ดแสดง หัว10แถว ท้าย10แถว และสุ่ม10แถว
+
+  2.3. เช็คว่ามีข้อมูลที่หายไปไหม สามารถจัดการได้ตามความเหมาะสม
+
+  2.4. ใช้ info และ describe อธิบายข้อมูลเบื้องต้น
+
+  2.5. ใช้ pairplot ดูความสัมพันธ์เบื้องต้นของ features ที่สนใจ
+
+  2.6. ใช้ displot เพื่อดูการกระจายของแต่ละคอลัมน์
+
+  2.7. ใช้ heatmap ดูความสัมพันธ์ของคอลัมน์ที่สนใจ
+
+  2.8. สร้าง scatter plot ของความสัมพันธ์ที่มี Correlation สูงสุด
+
+  2.9. สร้าง scatter plot ของความสัมพันธ์ที่มี Correlation ต่ำสุด
+
+  2.10. สร้าง histogram ของ feature ที่สนใจ
+
+  2.11. สร้าง box plot ของ features ที่สนใจ
+
+  2.12. สร้าง train/test split ของข้อมูล สามารถลองทดสอบ 70:30, 80:20, 90:10 ratio ได้ตามใจ
+
+  2.13. ทำ Data Visualization อื่นๆ (แล้วแต่เลือก)
+
+  2.14. พิจารณาว่าควรทำ Normalization หรือ Standardization หรือไม่ควรทั้งสองอย่าง พร้อมให้เหตุผล 
+
+  2.15. เลือกช้อยที่ดีที่สุดจากข้อ 14 (หรือจะทำทุกอันแล้วนำมาเปรียบเทียบก็ได้)
+
+  2.16. วัดผลโมเดล โดยใช้ confusion matrix และ ประเมินผลด้วยคะแนน Accuracy, 
+F1 score, Recall, Precision
+
+  2.17. หาค่า parameter combination ที่ดีที่สุด สำหรับ Dataset นี้ โดยใช้ GridSearch (Hyperparameter Tuning)
+
+  2.18. เลือกเฉพาะ features ที่สนใจมาเทรนโมเดล และวัดผลเปรียบเทียบกับแบบ all-features
+
+  2.19. ทำ Visualization ของค่า F1 Score ระหว่าง ผลลัพธ์ที่ได้จากค่า Default, ผลลัพธ์ที่ได้จากการใช้ Grid Search และ ผลลัพธ์ของ Normalization
+
+  2.20. ทำ Visualization ของค่า Recall ระหว่าง ผลลัพธ์ที่ได้จากค่า Default, ผลลัพธ์ที่ได้จากการใช้ Grid Search และ ผลลัพธ์ของ Normalization
+
+  2.21. ทำ Visualization ของค่า Accuracy ระหว่าง ผลลัพธ์ที่ได้จากค่า Default, ผลลัพธ์ที่ได้จากการใช้ Grid Search และ ผลลัพธ์ของ Normalization
+ 
+  2.22. สามารถใช้เทคนิคใดก็ได้ตามที่สอนมา ใช้ Decision Tree Algorithm แล้วให้ผลลัพธ์ที่ดีที่สุดที่เป็นไปได้ (อาจจะรวม Grid Search กับ Normalization/Standardization ?)
+
+
+
+
+
